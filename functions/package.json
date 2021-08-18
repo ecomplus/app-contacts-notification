@@ -15,24 +15,24 @@
   "dependencies": {
     "@ecomplus/application-sdk": "^22.0.0-firestore.1.15.4",
     "@ecomplus/client": "^2.2.1",
-    "@ecomplus/transactional-mails": "^1.10.6",
+    "@ecomplus/transactional-mails": "^1.10.7",
     "@ecomplus/utils": "^1.4.1",
-    "@google-cloud/firestore": "^4.12.3",
-    "aws-sdk": "^2.931.0",
+    "@google-cloud/firestore": "^4.14.1",
+    "aws-sdk": "^2.971.0",
     "axios": "^0.21.1",
     "cors": "^2.8.5",
     "ejs": "^3.1.6",
     "express": "^4.17.1",
     "express-ejs-layouts": "^2.5.1",
-    "firebase-admin": "^9.9.0",
-    "firebase-functions": "^3.14.1",
+    "firebase-admin": "^9.11.0",
+    "firebase-functions": "^3.15.4",
     "json2csv": "^5.0.6",
-    "nodemailer": "^6.6.2"
+    "nodemailer": "^6.6.3"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
     "eslint-plugin-promise": "^4.3.1",
-    "firebase-functions-test": "^0.3.0"
+    "firebase-functions-test": "^0.3.2"
   },
   "private": true
 }
