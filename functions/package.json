@@ -14,20 +14,20 @@
   },
   "dependencies": {
     "@ecomplus/application-sdk": "^22.0.0-firestore.1.15.7",
-    "@ecomplus/client": "^2.2.1",
-    "@ecomplus/transactional-mails": "^1.11.8",
+    "@ecomplus/client": "^2.4.0",
+    "@ecomplus/transactional-mails": "^1.11.9",
     "@ecomplus/utils": "^1.4.1",
     "@google-cloud/firestore": "^7.11.0",
-    "aws-sdk": "^2.1548.0",
-    "axios": "^0.28.0",
+    "aws-sdk": "^2.1692.0",
+    "axios": "^0.29.0",
     "cors": "^2.8.5",
-    "ejs": "^3.1.9",
-    "express": "^4.18.2",
+    "ejs": "^3.1.10",
+    "express": "^4.21.2",
     "express-ejs-layouts": "^2.5.1",
     "firebase-admin": "^11.11.1",
     "firebase-functions": "^4.9.0",
     "json2csv": "^5.0.7",
-    "nodemailer": "^6.9.9"
+    "nodemailer": "^6.10.0"
   },
   "devDependencies": {
     "eslint": "^6.8.0",
